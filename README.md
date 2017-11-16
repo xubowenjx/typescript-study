@@ -1,5 +1,6 @@
 # typescript-study
 learn typescript with vscode 
+[typescript-tutorial](https://www.gitbook.com/book/xcatliu/typescript-tutorial/details)
 ## install ts
 ```bash
 npm install -g typescript
