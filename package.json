@@ -1,0 +1,28 @@
+{
+  "name": "typescript-study",
+  "version": "1.0.0",
+  "description": "typescript learning",
+  "main": "index.js",
+  "scripts": {
+    "debug": "node --nolazy --inspect-brk=9229 js/6.module.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xubowenjx/typescript-study.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "xubowen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xubowenjx/typescript-study/issues"
+  },
+  "homepage": "https://github.com/xubowenjx/typescript-study#readme",
+  "dependencies": {
+    "@types/lodash": "^4.14.85"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.53"
+  }
+}

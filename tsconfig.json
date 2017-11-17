@@ -12,6 +12,7 @@
         "ts"
     ],
     "exclude": [
-        "js"
+        "js",
+        "node_modules"
     ]
 }
